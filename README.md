@@ -139,6 +139,8 @@ computer.hard()
 
 ' sticks')
 ```
+Notice the difference? The algorithm removed any code that occurs more than once.
+
 
 # TO DO
 *  There are few bugs left to fix. One of the most common being, if the comment is double lined (ie exceeds 80 lines limit), it makes a new line (which don't make sense in the produced mangled).
